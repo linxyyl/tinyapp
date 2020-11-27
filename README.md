@@ -1,6 +1,4 @@
 # tinyapp
-重构thinkPHP6 让应用为单组
-项目同一组下为三个文件
-Controller
-Service
-Model 
+
+------
+让每一个应用独立于一个文件夹
